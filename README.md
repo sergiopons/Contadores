@@ -16,7 +16,8 @@ Debemos desarrollar una mini aplicación parecida a un cronómetro, cuenta atrá
     Manejar el tiempo en Javascript
     Crear una interface en HTML y CSS
     
-#### Link git pages
+#### Link git pages.
+https://sergiopons.github.io/Contadores/
 
 
 
