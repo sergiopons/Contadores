@@ -20,7 +20,7 @@ Debemos desarrollar una mini aplicación parecida a un cronómetro, cuenta atrá
 
 
 
-![Alt text](/relative/path/to/Screenshot-counters.png?raw=true "screenshot Time Js")
+![alt text](https://github.com/sergiopons/contadores/blob/main/screenshot-counters.png?raw=true)
 
 
  
