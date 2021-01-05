@@ -20,7 +20,7 @@ Debemos desarrollar una mini aplicación parecida a un cronómetro, cuenta atrá
 
 
 
-(http:file:///C:/xampp/htdocs/Contadores/images/Screenshot-counters.png)
+(file:///C:/xampp/htdocs/Contadores/images/Screenshot-counters.png)
 
 
  
