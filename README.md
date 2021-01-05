@@ -20,7 +20,7 @@ Debemos desarrollar una mini aplicación parecida a un cronómetro, cuenta atrá
 
 
 
-(https://github.com/sergiopons/contadores/blob/main/screenshot-counters.png?raw=true)
+![](images/screenshotcounters.png)
 
 
  
