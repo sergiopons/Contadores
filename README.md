@@ -20,7 +20,7 @@ Debemos desarrollar una mini aplicación parecida a un cronómetro, cuenta atrá
 
 
 
-(file:///C:/xampp/htdocs/Contadores/images/Screenshot-counters.png)
+![Alt text](/relative/path/to/Screenshot-counters.png?raw=true "screenshot Time Js")
 
 
  
