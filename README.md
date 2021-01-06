@@ -21,7 +21,7 @@ https://sergiopons.github.io/Contadores/
 
 
 
-![](images/screenshotcounters.png)
+![](images/screenshotcountersv2.png)
 
 
  
