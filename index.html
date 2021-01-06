@@ -3,48 +3,46 @@
   <head>
     <title>Counters!</title>
     <link rel="stylesheet" type="text/css" href="style Counter.css">
-  </head>   
-    
-
-  <body onload="incrementCount(10)">
+  </head> 
+  <body>
     <header>
-      <h1><a title="2 Counters!"></a>Counters!</h1>
+      <h1>2 Counters!</h1>
     </header>
     <main>
-      <section class="timeCounter">
-        <center>
-        <div><h1>Time Counter</h1></div>
-        <div class="mainContainer" id="id_mainContainer">
-          <div class="containerInner" id="display_div_id"></div>
-        </div>
-        <div>   
-          <button id="btnstart" type="submit" class="btn_start_stop" onclick="stop()">Start/stop</button>
-          <button id="btnreset" type="reset" class="btn_Reset" input type="reset" value="reset values">Reset</button>
-        </div>
-      </center>
+      <section class="chronometer">
+        <img src="images/stopwatch-crono.jpg" alt="cronometro" id="crono">
+        <h2>Chronometer</h2>
+        <h3 data-chronometer>00:00:00</h3>
+        <button id="play">Play</button>
+        <button id="pause">Pause</button>
+        <button id="reset">Reset</button>
       </section>
 
-      <section class="simpleCounter">
+      <!-- Contador simple -->
+
+      <section class="simplecounter">
         <center>         
-            <form action="">
-              <h1>Simple Counter</h1>
-               <p>
-                <input type="text" readonly="readonly" id="txtCounter" value="0" class="form"/>
-               </p>
-               <p>
+          <form action="">
+            <img src="images/crono.png" alt="contador" id="contadorimg">
+            <h4>Simple Counter</h4>
+              <p>
+               <input type="text" readonly="readonly" id="txtCounter" value="0" class="form"/>
+              </p>
+              <p>
                  <input type="button" value="Increment" class="btnIncrement" onclick="increment()">
                  <input type="button" value="Decrement" class="btnDecrement" onclick="decrement()">
                  <input type="reset" class="reset">
-                </p>
-            </form>
+              </p>
+          </form>
         </center>
       </section>
     </main>
+    <footer>
+      <p><img src="images/pussyboots.png" alt="pussy with boots" id="pussyboots">Made by Sergi Pons<img src="images/Shrek-icon40.png" alt="schrek" id="schreck"></p>
+    </footer>
     <script type="text/javascript" src="JS Counter.js"></script>
   </body>
   
-  <footer>
-    <p>Made by Sergi Pons <img src="images/Shrek-icon40.png" alt="schrek" id="schreck"></p>
-  </footer>
+  
 
 </html>
