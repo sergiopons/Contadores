@@ -1,6 +1,6 @@
 # Time Js
 
-## trabajo realizado individualmente en el bootcamp Factoría F5.
+## trabajo realizado individualmente en el bootcamp Factoría F5 ![](images/factoriaF5.png)
 
 ### Contexto del proyecto:
 
