@@ -11,6 +11,10 @@ Así que:
 
 Debemos desarrollar una mini aplicación parecida a un cronómetro, cuenta atrás, juego, etc.. que permita a la empresa ver nuestras habilidades, entregar el código en un repositorio con un ReadMe atractivo y una url en que se muestre la aplicación.
 
+### Cómo se juega:
+
+Simplemente debes saltar el rectángulo rojo antes de que llegue el cuadrado azul. Siéste llega a tocar al rectángulo rojo la partida termina.
+
 ### Core Skills:
 
     Manejar el tiempo en Javascript
@@ -18,6 +22,7 @@ Debemos desarrollar una mini aplicación parecida a un cronómetro, cuenta atrá
     
 #### Link git pages.
 https://sergiopons.github.io/Contadores/
+
 
 
 
