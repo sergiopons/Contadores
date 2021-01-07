@@ -1,4 +1,4 @@
-# Time Js![](images/crono1.png)
+# Time Js![](images/crono3.png)
 
 ## trabajo realizado individualmente en el bootcamp ![](images/factoriaF5r.png)
 
