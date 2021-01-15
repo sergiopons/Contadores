@@ -1,6 +1,6 @@
-# Time Js
+# Time Js  ![](images/crono4.jpg)
 
-## trabajo realizado individualmente en el bootcamp Factoría F5.
+## trabajo realizado individualmente en el bootcamp ![](images/factoriaF5r.png)
 
 ### Contexto del proyecto:
 
@@ -21,7 +21,8 @@ https://sergiopons.github.io/Contadores/
 
 
 
-![](images/screenshotcounters.png)
+
+![Jump!](images/screenshotcountersv2.png)
 
 
  
